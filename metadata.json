@@ -1,0 +1,5 @@
+{
+  "name": "Vector Animation Stylizer",
+  "description": "An application that transforms an input video into a clean, flat vector animation style using AI, based on the video's first frame.",
+  "requestFramePermissions": []
+}
